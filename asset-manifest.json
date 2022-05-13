@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/carbage/static/css/main.d6dc50ca.css",
+    "main.js": "/carbage/static/js/main.125f67a2.js",
+    "static/js/787.f10e4e11.chunk.js": "/carbage/static/js/787.f10e4e11.chunk.js",
+    "static/media/Avenir-Heavy.svg": "/carbage/static/media/Avenir-Heavy.c5de52c723100273e7bc.svg",
+    "static/media/Avenir-Medium.svg": "/carbage/static/media/Avenir-Medium.6eb8490b362bf63e07a1.svg",
+    "static/media/Avenir-Black.svg": "/carbage/static/media/Avenir-Black.9d44771cd9529e04604b.svg",
+    "static/media/Avenir-Medium.eot": "/carbage/static/media/Avenir-Medium.199842faa79b7377efd2.eot",
+    "static/media/Avenir-Medium.ttf": "/carbage/static/media/Avenir-Medium.6f5e00622139292c5009.ttf",
+    "static/media/Avenir-Heavy.eot": "/carbage/static/media/Avenir-Heavy.9e6cea4b14313f9d1380.eot",
+    "static/media/Avenir-Heavy.ttf": "/carbage/static/media/Avenir-Heavy.913d9bf0748b36fd6ade.ttf",
+    "static/media/Europa-Italic.svg": "/carbage/static/media/Europa-Italic.2b6563a8bc489937a9c2.svg",
+    "static/media/Avenir-Black.eot": "/carbage/static/media/Avenir-Black.27a0e74f123e2a872d49.eot",
+    "static/media/Avenir-Black.ttf": "/carbage/static/media/Avenir-Black.add02fa884ec91e375fc.ttf",
+    "static/media/Europa-Regular.svg": "/carbage/static/media/Europa-Regular.0db3a4a7aa03df25e9df.svg",
+    "static/media/Europa-Italic.eot": "/carbage/static/media/Europa-Italic.fcd4df82af12a9a2cd3d.eot",
+    "static/media/Europa-Italic.ttf": "/carbage/static/media/Europa-Italic.7ebc1ad25e5579d7a68e.ttf",
+    "static/media/Avenir-Medium.woff": "/carbage/static/media/Avenir-Medium.a90397fee89e49601af8.woff",
+    "static/media/Avenir-Heavy.woff": "/carbage/static/media/Avenir-Heavy.696199e4b098c4cbbf14.woff",
+    "static/media/Europa-Regular.eot": "/carbage/static/media/Europa-Regular.8b44662ba7a13e753daf.eot",
+    "static/media/Europa-Regular.ttf": "/carbage/static/media/Europa-Regular.3c5c6a61acb2811888cc.ttf",
+    "static/media/Avenir-Medium.woff2": "/carbage/static/media/Avenir-Medium.df7c40e4fd8236070b0c.woff2",
+    "static/media/Avenir-Heavy.woff2": "/carbage/static/media/Avenir-Heavy.7b3fcacbfc58489a805f.woff2",
+    "static/media/Avenir-Black.woff": "/carbage/static/media/Avenir-Black.9e8d221aecf5c19f79ec.woff",
+    "static/media/Europa-Italic.woff": "/carbage/static/media/Europa-Italic.79f80bc8db9ead4a8fcc.woff",
+    "static/media/Avenir-Black.woff2": "/carbage/static/media/Avenir-Black.2d66324f77da406af9c2.woff2",
+    "static/media/Europa-Regular.woff": "/carbage/static/media/Europa-Regular.0a083fbc03c7d4671496.woff",
+    "static/media/Europa-Italic.woff2": "/carbage/static/media/Europa-Italic.a4111ca81ca8220d3059.woff2",
+    "static/media/Europa-Regular.woff2": "/carbage/static/media/Europa-Regular.f0c311a138f38c084c61.woff2",
+    "static/media/chevron-white.svg": "/carbage/static/media/chevron-white.b9f15001f7952655aad6.svg",
+    "static/media/chevron-black.svg": "/carbage/static/media/chevron-black.f582317aa12b18562db4.svg",
+    "static/media/chevron-pink.svg": "/carbage/static/media/chevron-pink.c68f31a85a7015348472.svg",
+    "index.html": "/carbage/index.html",
+    "main.d6dc50ca.css.map": "/carbage/static/css/main.d6dc50ca.css.map",
+    "main.125f67a2.js.map": "/carbage/static/js/main.125f67a2.js.map",
+    "787.f10e4e11.chunk.js.map": "/carbage/static/js/787.f10e4e11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6dc50ca.css",
+    "static/js/main.125f67a2.js"
+  ]
+}
