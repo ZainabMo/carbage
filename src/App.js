@@ -192,7 +192,7 @@ function App() {
                         <p><b>Address: </b>410 S Clark St, Chicago, IL 60605, United States</p>
                         <p><b>Distance: </b>0.5 miles from your given location</p>
                         <p><b>Open Hours: </b>Mon - Sun: 10:00am - 5:00pm </p>
-                        <a href="https://maps.google.com/maps?ll=41.876476,-87.631035&z=11&t=m&hl=en&gl=BD&mapclient=embed&cid=13903511846978326037" target="_blank" class="cb-button cb-btn-chevron cb-btn-chevron-right cb-btn-chevron-white" title="Direct google map link to the location named 'AVA Recycling Pick Up, Asset Recovery and Shredding' at '410 S Clark St, Chicago, IL 60605, United States'">Open in Google Maps</a>
+                        <a href="https://maps.google.com/maps?ll=41.876476,-87.631035&z=11&t=m&hl=en&gl=BD&mapclient=embed&cid=13903511846978326037" target="_blank" class="cb-button cb-btn-chevron cb-btn-chevron-right cb-btn-chevron-white" title="Direct google map link to the location named 'AVA Recycling Pick Up, Asset Recovery and Shredding' at '410 S Clark St, Chicago, IL 60605, United States'" rel="noreferrer">Open in Google Maps</a>
                     </div>
                 </div>
             </section>
