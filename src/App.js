@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+import logo from './images/logo.png';
 import './App.css';
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <nav id="main-menu">
         <div class="brand">
-            <img id="logo" src="assets/images/logo.png" alt="Carbage Logo"/>
+            <img id="logo" src={logo} alt="Carbage Logo"/>
         </div>
         <ul id="center-menu">
             <li class="active" id="home">
